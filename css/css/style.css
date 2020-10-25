@@ -28,6 +28,11 @@ body {
 body, .unslate_co--site-inner {
   background: #000; }
 
+#Edit{
+  width: 30%;
+  height: 40%;
+}
+
 ::-moz-selection {
   background: #000;
   color: #fff; }
